@@ -1,0 +1,11 @@
+Model Information:
+* title:	CyberPunk Laptop
+* source:	https://sketchfab.com/3d-models/cyberpunk-laptop-8330c89e8431451db3aa9d15c5836ddf
+* author:	Blue Lantern (https://sketchfab.com/genoris2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CyberPunk Laptop" (https://sketchfab.com/3d-models/cyberpunk-laptop-8330c89e8431451db3aa9d15c5836ddf) by Blue Lantern (https://sketchfab.com/genoris2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

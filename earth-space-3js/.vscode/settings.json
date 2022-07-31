@@ -1,0 +1,15 @@
+{
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.withNodeModules": true,
+	"prettier.singleQuote": true,
+	"prettier.resolveGlobalModules": true,
+	"prettier.requirePragma": true,
+	"prettier.requireConfig": false,
+	"[javascript]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
+}

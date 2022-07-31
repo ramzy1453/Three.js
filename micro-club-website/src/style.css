@@ -1,0 +1,61 @@
+@import url('https://fr.allfont.net/cache/css/raleway-bold.css');
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway Bold', arial;
+    background-color: #1e1a28;
+}
+
+canvas.webgl{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+.all-sections{
+    visibility: hidden;
+
+}
+
+.all-sections .section{
+    height: 100vh;
+    font-size: 30px;
+    font-size: 6em;
+    color: white;
+    padding: 10px 30px;
+}
+
+#robotics, #multimedia{
+    background-color : red;
+}
+#it{
+    background-color: #2b3563;
+}
+#gamedev{
+    background-color: #261a28;
+}
+#robotics{
+    background-color: #1b1a28;
+}
+#multimedia{
+    text-align: right;
+    background-color: #281a1a;
+}
+
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid rgb(36, 34, 126); /* Blue */
+    border-radius: 50%;
+    position: absolute;
+    top : calc(50% - 45px);
+    left : calc(50% - 45px);
+    width: 90px;
+    height: 90px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+} 
